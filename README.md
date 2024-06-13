@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nehachannaiah24
+- 👋 Hi, I’m Nehaaa
 - 👀 I’m interested in developing cool stuff with latest and trending tools 
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate in dev projects and learn
